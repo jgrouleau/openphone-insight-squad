@@ -2,7 +2,7 @@
 title: Openphone Insights Squad
 subtitle: Data-driven insights for better business communication
 email: jgrouleau@gmail.com
-description: A collection of data-driven insights and analysis for business communication and phone system optimization.
+description: I'm the perfect candidate to lead OpenPhone's Insights Squad, as the new Senior Engineering Manager. This site presents a strategic vision for how OpenPhone can empower its customers to derive valuable insights from their communication data. By leveraging AI and intuitive analytics tools, we can transform raw interactions into actionable intelligence, helping businesses understand their customers better, optimize their communication strategies, and drive growth.
 baseurl: "/openphone-insight-squad"
 url: "https://jgrouleau.github.io"
 author:
@@ -21,7 +21,7 @@ tiles-count: 6
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
+
 socials:
   WordPress: https://jean-guy.rouleau.website
   GitHub: https://github.com/jgrouleau
