@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, my name is Jean-Guy Rouleau'
+description: "I think I should lead OpenPhone's Insights Squad, as the new Senior Engineering Manager."
 image: null
 author: null
 show_tile: false

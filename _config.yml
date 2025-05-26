@@ -9,9 +9,9 @@ author:
   name: Jean-Guy Rouleau
   email: jgrouleau@gmail.com
 
-phone: (705) 707-1441
+phone: +1 (705) 707-1441
 city: North Bay
-state: ON
+state: "ON"
 country: Canada
 
 # homepage tiles
@@ -24,7 +24,7 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   WordPress: https://jean-guy.rouleau.website
-  GitHub: https://github.com/jgrouleau/openphone-insight-squad
+  GitHub: https://github.com/jgrouleau
   LinkedIn: https://www.linkedin.com/in/jgrouleau/
 
 # build settings
