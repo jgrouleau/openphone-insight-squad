@@ -1,17 +1,18 @@
 # site settings
 title: Openphone Insights Squad
 subtitle: Data-driven insights for better business communication
-email: insights@openphone.co
+email: jgrouleau@gmail.com
 description: A collection of data-driven insights and analysis for business communication and phone system optimization.
 baseurl: "/openphone-insight-squad"
 url: "https://jgrouleau.github.io"
 author:
   name: Jean-Guy Rouleau
   email: jgrouleau@gmail.com
-  phone: (705) 707-1441
-  city: North Bay
-  state: ON
-  country: Canada
+
+phone: (705) 707-1441
+city: North Bay
+state: ON
+country: Canada
 
 # homepage tiles
 tiles-source: pages
