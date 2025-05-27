@@ -22,7 +22,8 @@ nav-menu: true
 
 <blockquote>
 The world's most valuable resource is no longer oil, but data.
-<cite>The Economist</cite>
+<span class="attribution">—The Economist</span>
+<p>This sentiment, while broadly about data, highlights the untapped value within business communications.</p>
 </blockquote>
 
 <h3>The Growing Volume of Communication Data</h3>
