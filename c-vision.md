@@ -21,69 +21,78 @@ nav-menu: true
 <p>Building on OpenPhone's existing strengths, our vision is to empower customers with granular insights derived directly from their communication data. This detailed understanding will unlock opportunities to enhance customer experience and optimize business operations.</p>
 
 <h3>Understanding Customer Satisfaction</h3>
+<p>To truly understand the impact of customer interactions, measuring their satisfaction and loyalty is paramount.</p>
 <h4>Net Promoter Score (NPS)</h4>
+<p>A key indicator of customer loyalty, NPS helps gauge the likelihood of customers recommending your business.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h5>Capture</h5>
 		<p>Integrate optional post-interaction surveys asking, "How likely are you to recommend us to a friend or colleague?" on a scale of 0-10.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Insights</h3>
+		<h5>Insights</h5>
 		<p>Understand overall customer loyalty and identify promoters, passives, and detractors to inform strategies for improvement.</p>
 	</div>
 </div>
 
 <h4>Customer Satisfaction (CSAT)</h4>
+<p>Providing immediate feedback on specific interactions, CSAT helps pinpoint areas of service excellence and those needing attention.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h5>Capture</h5>
 		<p>Implement short surveys immediately after interactions asking, "How satisfied were you with this interaction?" on a defined scale (e.g., 1-5 stars).</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Insights</h3>
+		<h5>Insights</h5>
 		<p>Get immediate feedback on specific interactions to identify areas of strength and weakness in customer service.</p>
 	</div>
 </div>
 
 <h3>Optimizing Communication Efficiency</h3>
+<p>Understanding how efficiently customer interactions are handled can reveal opportunities to streamline processes and improve the customer journey.</p>
 <h4>First Call Resolution (FCR)</h4>
+<p>A measure of how often customer issues are resolved during the first contact.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h5>Capture</h5>
 		<p>Track interactions where the customer's issue is resolved in the initial contact.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Insights</h3>
+		<h5>Insights</h5>
 		<p>Identify areas where agents are effectively resolving issues and where additional training or resources might be needed.</p>
 	</div>
 </div>
 
 <h4>Transfer Metrics</h4>
+<p>Analyzing call transfers can highlight potential issues in routing or the need for broader agent knowledge.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h5>Capture</h5>
 		<p>Monitor how often calls are transferred, and the paths they take (to which teams/individuals).</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Insights</h3>
+		<h5>Insights</h5>
 		<p>Identify potential bottlenecks or areas where initial routing or information provided could be improved.</p>
 	</div>
 </div>
 
 <h4>Call Flow Analysis</h4>
+<p>Understanding how customers navigate the call flow is crucial for an efficient and positive experience.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h5>Capture</h5>
 		<p>Track time spent in phone menus, common paths taken, and drop-off points.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Insights</h3>
+		<h5>Insights</h5>
 		<p>Understand the efficiency and user-friendliness of the call flow, highlighting areas causing frustration or confusion.</p>
 	</div>
 </div>
 
 <h3>Unlocking Insights with AI and NLP</h3>
+<p>Leveraging the power of AI and Natural Language Processing can reveal deeper, contextual understanding from customer conversations.</p>
 <h4>Sentiment Analysis</h4>
+<p>Understanding the emotional tone of customer interactions allows for quick identification of positive and negative experiences.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h5>Capture</h5>
@@ -91,32 +100,35 @@ nav-menu: true
   negative, neutral) of customer interactions.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Insights</h3>
+		<h5>Insights</h5>
 		<p>Quickly identify interactions where customers are frustrated or delighted, enabling timely follow-up and service recovery.</p>
 	</div>
 </div>
 
 <h3>Data-Driven Operational Improvements</h3>
+<p>Analyzing patterns and channels of communication can inform strategic decisions about resource allocation and customer engagement.</p>
 <h4>Pattern Analysis</h4>
+<p>Identifying trends in communication volume and issue types can help optimize operational efficiency.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h5>Capture</h5>
 		<p>Analyze communication volume and types over time, potentially cross-referencing with issue categories/tags.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Insights</h3>
+		<h5>Insights</h5>
 		<p>Identify trends (e.g., for tech support, increased login issues on Mondays) to optimize staffing, resource allocation, and proactive communication.</p>
 	</div>
 </div>
 
 <h4>Channel Analysis</h4>
+<p>Understanding customer preferences for different communication channels can lead to more effective engagement.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h5>Capture</h5>
 		<p>Track which types of issues or inquiries come through calls versus text messages.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Insights</h3>
+		<h5>Insights</h5>
 		<p>Understand customer channel preferences for different needs, informing communication strategies and resource allocation per channel.</p>
 	</div>
 </div>
