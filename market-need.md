@@ -4,6 +4,7 @@ title: Market Need
 description: Exploring the growing importance and demand for data-driven insights in business communication.
 image: assets/images/pic01.jpg
 nav-menu: true
+order: 2
 ---
 
 <!-- Main -->
