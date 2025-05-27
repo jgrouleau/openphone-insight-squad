@@ -29,19 +29,15 @@ The world's most valuable resource is no longer oil, but data.
 
 <h2>The Growing Volume of Communication Data</h2>
 <p>
-  The sheer volume of daily business communications is immense and constantly growing. This data holds valuable clues about customer behavior, preferences, and pain points. However, for most businesses, this remains a largely unmined resource.
+  The sheer volume of daily business communications is immense and constantly growing. This data holds valuable clues about customer behaviour, preferences, and pain points. However, for most businesses, this remains a largely unmined resource. OpenPhone is already well-positioned to provide analytics on this growing volume, but there are opportunities for deeper analytics.
 </p>
 
 <h2>Customer Demand for Actionable Insights</h2>
 <p>
-  Businesses are increasingly seeking data-driven strategies to improve customer engagement, optimize operations, and drive sales. They need tools that can transform raw data into actionable insights, allowing them to make smarter decisions, faster.
+  With so much data at their fingertips, businesses are increasingly seeking data-driven strategies to improve customer engagement, optimize operations, and drive sales. They need tools that can transform raw data into actionable insights, allowing them to make smarter decisions, faster.
 </p>
 
 <h2>OpenPhone's Opportunity to Differentiate</h2>
 <p>
-  By natively integrating customer-centric insight tools, OpenPhone can go
-  beyond providing a superior communication platform. We can become a
-  partner in helping our customers truly understand their interactions,
-  giving them a competitive edge. This move aligns perfectly with OpenPhone's
-  mission to help people communicate better and be more productive.
+  By natively integrating customer-centric insight tools, OpenPhone can go beyond providing a superior communication platform. We can become a partner in helping our customers truly understand their interactions, giving them a competitive edge. This move aligns perfectly with OpenPhone's mission to help people communicate better and be more productive.
 </p>
