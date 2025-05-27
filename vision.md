@@ -102,12 +102,73 @@ order: 3
 	<div class="6u 12u$(small)">
 		<h5>Capture</h5>
 		<p>We're already using AI to categorize and tag calls. We can take that a step further and employ AI/NLP to analyze the emotional tone (positive,
-  negative, neutral) of customer interactions.</p>
+  negative, neutral) of customer interactions in a real-time or post-interaction analysis of language used in conversations.</p>
+  </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h5>Insights</h5>
-		<p>Quickly identify interactions where customers are frustrated or delighted, enabling timely follow-up and service recovery.</p>
+		<p>Quickly identify interactions where customers are frustrated or delighted, enabling timely follow-up and service recovery, as well as highlighting positive interactions to understand what's working well.</p>
 	</div>
+</div>
+
+<br />
+
+<h4>Live AI Guidance for Agents</h4>
+<p>Provide real-time assistance to agents during calls based on the conversation's content and sentiment.</p>
+<div class="row">
+  <div class="6u 12u$(small)">
+    <h5>Capture</h5>
+    <p>Live analysis of the ongoing conversation using AI/NLP.</p>
+  </div>
+  <div class="6u$ 12u$(small)">
+    <h5>Insights</h5>
+    <p>Suggest appropriate responses, provide relevant information, or flag potential issues to help agents navigate conversations effectively and improve customer outcomes.</p>
+  </div>
+</div>
+
+<br />
+
+<h4>Smart Summaries</h4>
+<p>Automatically generate concise summaries of calls and text conversations.</p>
+<div class="row">
+  <div class="6u 12u$(small)">
+    <h5>Capture</h5>
+    <p>AI/NLP processing of call transcripts and text message content.</p>
+  </div>
+  <div class="6u$ 12u$(small)">
+    <h5>Insights</h5>
+    <p>Allow users to quickly grasp the key takeaways from interactions without needing to review entire transcripts or recordings, improving efficiency.</p>
+  </div>
+</div>
+
+<br />
+
+<h4>Enhanced AI Tagging with Workflow Integration</h4>
+<p>Extend the existing tagging capabilities with AI to automatically tag contacts based on their interaction history, enabling powerful workflow automation.</p>
+<div class="row">
+  <div class="6u 12u$(small)">
+    <h5>Capture</h5>
+    <p>AI analysis of interaction history to identify patterns and automatically apply relevant tags to contacts (e.g., "problem customer," "frequent escalator").</p>
+  </div>
+  <div class="6u$ 12u$(small)">
+    <h5>Insights</h5>
+    <p>Enable automated routing of specific contact types to designated teams or the application of custom call handling rules, improving customer service and internal efficiency (e.g., routing "problem customers" to supervisors).</p>
+  </div>
+</div>
+
+<br />
+
+<h4>Predictive Insights</h4>
+<p>Leverage AI to identify patterns in communication data that can predict future outcomes or risks.</p>
+<div class="row">
+  <div class="6u 12u$(small)">
+    <h5>Capture</h5>
+    <p>Analysis of historical communication data, including sentiment, topics, frequency, and other relevant factors.</p>
+  </div>
+  <div class="6u$ 12u$(small)">
+    <h5>Insights</h5>
+    <p>Identify potential churn risks based on negative sentiment trends, highlight potential sales opportunities based on positive engagement, or predict periods of high support volume to optimize staffing proactively.</p>
+  </div>
 </div>
 
 <br />
