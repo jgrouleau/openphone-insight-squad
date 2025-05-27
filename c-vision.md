@@ -35,6 +35,8 @@ nav-menu: true
 	</div>
 </div>
 
+<hr />
+
 <h4>Customer Satisfaction (CSAT)</h4>
 <p>Providing immediate feedback on specific interactions, CSAT helps pinpoint areas of service excellence and those needing attention.</p>
 <div class="row">
@@ -47,6 +49,8 @@ nav-menu: true
 		<p>Get immediate feedback on specific interactions to identify areas of strength and weakness in customer service.</p>
 	</div>
 </div>
+
+<hr class="major" />
 
 <h3>Optimizing Communication Efficiency</h3>
 <p>Understanding how efficiently customer interactions are handled can reveal opportunities to streamline processes and improve the customer journey.</p>
@@ -63,6 +67,8 @@ nav-menu: true
 	</div>
 </div>
 
+<hr />
+
 <h4>Transfer Metrics</h4>
 <p>Analyzing call transfers can highlight potential issues in routing or the need for broader agent knowledge.</p>
 <div class="row">
@@ -76,6 +82,8 @@ nav-menu: true
 	</div>
 </div>
 
+<hr />
+
 <h4>Call Flow Analysis</h4>
 <p>Understanding how customers navigate the call flow is crucial for an efficient and positive experience.</p>
 <div class="row">
@@ -88,6 +96,8 @@ nav-menu: true
 		<p>Understand the efficiency and user-friendliness of the call flow, highlighting areas causing frustration or confusion.</p>
 	</div>
 </div>
+
+<hr class="major" />
 
 <h3>Unlocking Insights with AI and NLP</h3>
 <p>Leveraging the power of AI and Natural Language Processing can reveal deeper, contextual understanding from customer conversations.</p>
@@ -105,6 +115,8 @@ nav-menu: true
 	</div>
 </div>
 
+<hr class="major" />
+
 <h3>Data-Driven Operational Improvements</h3>
 <p>Analyzing patterns and channels of communication can inform strategic decisions about resource allocation and customer engagement.</p>
 <h4>Pattern Analysis</h4>
@@ -119,6 +131,8 @@ nav-menu: true
 		<p>Identify trends (e.g., for tech support, increased login issues on Mondays) to optimize staffing, resource allocation, and proactive communication.</p>
 	</div>
 </div>
+
+<hr />
 
 <h4>Channel Analysis</h4>
 <p>Understanding customer preferences for different communication channels can lead to more effective engagement.</p>
