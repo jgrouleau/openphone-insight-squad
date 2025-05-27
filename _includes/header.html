@@ -17,10 +17,9 @@
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true | sort: "order", "first" %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
+		{% assign sorted_pages = site.html_pages | where_exp: "item", "item.layout != 'home' and item.nav-menu == true" | sort: "order", "first" %}
+		{% for page in sorted_pages %}
+		    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
