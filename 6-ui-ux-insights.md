@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UI/UX: Insights
+title: 'UI/UX: Insights'
 description: Envisioning how customers would interact with and understand the insights within OpenPhone.
 image: assets/images/pic01.jpg
 nav-menu: true
