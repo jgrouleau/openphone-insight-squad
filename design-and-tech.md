@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design & Techn
+title: Design & Tech
 description: Briefly addressing the user interface design and technical aspects of delivering insights.
 image: assets/images/pic01.jpg
 nav-menu: true
