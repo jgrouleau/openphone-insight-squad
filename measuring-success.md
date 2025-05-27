@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Next Steps
-description: Concluding thoughts and proposed next actions for OpenPhone.
-image: assets/images/pic01.jpg
+title: Measuring Success
+description: Key metrics and KPIs to track the impact of our data-driven initiatives.
+image: assets/images/pic08.jpg
 nav-menu: true
+order: 8
 ---
 
 <!-- Main -->
@@ -13,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Next Steps & Recommendations</h1>
+			<h1>Measuring Success: Customer Impact and Adoption</h1>
 		</header>
 
 <!-- Content -->

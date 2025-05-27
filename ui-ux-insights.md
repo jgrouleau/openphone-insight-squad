@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Design & Tech
-description: Briefly addressing the user interface design and technical aspects of delivering insights.
-image: assets/images/pic01.jpg
+title: UI/UX Insights
+description: User interface and experience improvements based on data-driven insights.
+image: assets/images/pic06.jpg
 nav-menu: true
+order: 6
 ---
 
 <!-- Main -->
@@ -13,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Design & Technical Considerations</h1>
+			<h1>User Interface and Experience for Insights</h1>
 		</header>
 
 <!-- Content -->

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Measuring Success
-description: Defining how the value and adoption of these insight features will be tracked.
-image: assets/images/pic01.jpg
+title: AI Features
+description: Innovative AI capabilities that will enhance OpenPhone's functionality and user experience.
+image: assets/images/pic05.jpg
 nav-menu: true
+order: 5
 ---
 
 <!-- Main -->
@@ -13,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Measuring Success: Customer Impact and Adoption</h1>
+			<h1>AI-Powered Insight Features for Customers</h1>
 		</header>
 
 <!-- Content -->

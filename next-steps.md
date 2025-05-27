@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Data Strategy
-description: How OpenPhone can responsibly handle and leverage customer data to generate valuable insights.
-image: assets/images/pic01.jpg
+title: Next Steps
+description: Immediate actions and future considerations for moving forward.
+image: assets/images/pic10.jpg
 nav-menu: true
+order: 10
 ---
 
 <!-- Main -->
@@ -13,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Proposed Data Strategy for Customer Insights</h1>
+			<h1>Next Steps & Recommendations</h1>
 		</header>
 
 <!-- Content -->

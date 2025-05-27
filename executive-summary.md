@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 'UI/UX: Insights'
-description: Envisioning how customers would interact with and understand the insights within OpenPhone.
+title: Executive Summary
+description: A concise overview of the strategic vision, key opportunities, and expected impact of the Insights Squad.
 image: assets/images/pic01.jpg
 nav-menu: true
+order: 1
 ---
 
 <!-- Main -->
@@ -13,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>User Interface and Experience for Insights</h1>
+			<h1>Executive Summary</h1>
 		</header>
 
 <!-- Content -->

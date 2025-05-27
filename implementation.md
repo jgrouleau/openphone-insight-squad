@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Executive Summary
-description: A concise overview of the strategic vision, key opportunities, and expected impact of the Insights Squad.
-image: assets/images/pic01.jpg
+title: Implementation
+description: Strategic roadmap for implementing our data-driven insights and AI features.
+image: assets/images/pic07.jpg
 nav-menu: true
+order: 7
 ---
 
 <!-- Main -->
@@ -13,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Executive Summary</h1>
+			<h1>Implementation Strategy for Customer Insights</h1>
 		</header>
 
 <!-- Content -->

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Implementation
-description: A phased approach to developing and rolling out customer-facing insight capabilities.
-image: assets/images/pic01.jpg
+title: Data Strategy
+description: Our comprehensive approach to data collection, analysis, and utilization.
+image: assets/images/pic04.jpg
 nav-menu: true
+order: 4
 ---
 
 <!-- Main -->
@@ -13,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Implementation Strategy for Customer Insights</h1>
+			<h1>Proposed Data Strategy for Customer Insights</h1>
 		</header>
 
 <!-- Content -->

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: AI Features
-description: Presenting potential AI-driven features that would empower customers with intelligent analytics.
-image: assets/images/pic01.jpg
+title: Design and Tech
+description: Technical architecture and design considerations for our data-driven features.
+image: assets/images/pic09.jpg
 nav-menu: true
+order: 9
 ---
 
 <!-- Main -->
@@ -13,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>AI-Powered Insight Features for Customers</h1>
+			<h1>Design & Technical Considerations</h1>
 		</header>
 
 <!-- Content -->
