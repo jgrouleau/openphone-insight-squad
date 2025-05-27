@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Current State
+title: Vision: Insights
+description: Outlining the potential insights OpenPhone can help customers uncover from their interactions.
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Current State</h1>
+			<h1>Vision for Customer-Facing Insights in OpenPhone</h1>
 		</header>
 
 <!-- Content -->
