@@ -2,7 +2,7 @@
 layout: page
 title: Implementation
 description: Strategic roadmap for implementing our data-driven insights and AI features.
-image: assets/images/pexels-bohlemedia-947448.jpg
+image: assets/images/pexels-thisisengineering-3861969.jpg
 nav-menu: true
 order: 7
 ---

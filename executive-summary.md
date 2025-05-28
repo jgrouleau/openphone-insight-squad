@@ -2,7 +2,7 @@
 layout: page
 title: Executive Summary
 description: A concise overview of the strategic vision, key opportunities, and expected impact of the Insights Squad.
-image: assets/images/pexels-olly-3807737.jpg
+image: assets/images/pexels-goumbik-669619.jpg
 nav-menu: true
 order: 1
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Next Steps
 description: Immediate actions and future considerations for moving forward.
-image: assets/images/pexels-asphotograpy-95916.jpg
+image: assets/images/pexels-bohlemedia-947448.jpg
 nav-menu: true
 order: 10
 ---
