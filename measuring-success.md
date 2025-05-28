@@ -2,7 +2,7 @@
 layout: page
 title: Measuring Success
 description: Key metrics and KPIs to track the impact of our data-driven initiatives.
-image: assets/images/pexels-pixabay-434658.jpg
+image: assets/images/pexels-federico-orlandi-1423142-3260626.jpg
 nav-menu: true
 order: 8
 ---

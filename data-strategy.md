@@ -2,7 +2,7 @@
 layout: page
 title: Data Strategy
 description: Our comprehensive approach to data collection, analysis, and utilization.
-image: assets/images/pexels-pixabay-276452.jpg
+image: assets/images/pexels-goumbik-669619.jpg
 nav-menu: true
 order: 4
 ---

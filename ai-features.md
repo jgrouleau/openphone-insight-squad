@@ -2,7 +2,7 @@
 layout: page
 title: AI Features
 description: Innovative AI capabilities that will enhance OpenPhone's functionality and user experience.
-image: assets/images/pexels-mikael-blomkvist-6476267.jpg
+image: assets/images/pexels-googledeepmind-17485657.jpg
 nav-menu: true
 order: 5
 ---

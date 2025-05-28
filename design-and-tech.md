@@ -2,7 +2,7 @@
 layout: page
 title: Design and Tech
 description: Technical architecture and design considerations for our data-driven features.
-image: assets/images/pexels-bohlemedia-947448.jpg
+image: assets/images/pexels-thisisengineering-3861969.jpg
 nav-menu: true
 order: 9
 ---
