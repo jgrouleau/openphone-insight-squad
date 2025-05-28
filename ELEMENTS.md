@@ -4,6 +4,7 @@ title: ELEMENTS
 description: Elements useable in the template.
 image: assets/images/pic10.jpg
 nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->

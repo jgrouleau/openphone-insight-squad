@@ -2,7 +2,7 @@
 layout: page
 title: UI/UX Insights
 description: User interface and experience improvements based on data-driven insights.
-image: assets/images/pic06.jpg
+image: assets/images/pexels-rdne-7948029.jpg
 nav-menu: true
 order: 6
 ---

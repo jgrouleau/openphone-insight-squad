@@ -2,7 +2,7 @@
 layout: page
 title: 'Vision: Insights'
 description: Outlining the potential insights OpenPhone can help customers uncover from their interactions.
-image: assets/images/pic01.jpg
+image: assets/images/pexels-googledeepmind-17485657.jpg
 nav-menu: true
 order: 3
 ---
