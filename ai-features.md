@@ -24,14 +24,7 @@ order: 5
 </p>
 
 <h2 id="sentiment-analysis">Sentiment Analysis</h2>
-<p>Understanding the emotional undertones of customer conversations is crucial for building strong relationships and addressing issues proactively. Our platform will employ advanced Natural Language Processing (NLP) algorithms to analyze the language used in both voice calls (via transcription) and text messages. This analysis can occur in real-time during a call to provide immediate feedback to Agents to help guide the conversation, or de-escalate situations, as well as post-interaction for comprehensive review. By identifying the sentiment expressed (positive, negative, or neutral), businesses can quickly pinpoint customer frustration requiring immediate attention, as well as recognize positive interactions to understand what is resonating well. Combined with other features like AI tagging, this enables timely service recovery, proactive engagement, and the ability to replicate successful communication strategies.</p>
-
-<dl id="definition-list">
-	<dt>Agent</dt>
-	<dd>
-		<p>For the purposes of this strategy document, an <em>Agent</em> is anybody communicating with an end-user / customer on behalf of the organization. </p>
-	</dd>
-</dl>
+<p>Understanding the emotional undertones of customer conversations is crucial for building strong relationships and addressing issues proactively. Our platform will employ advanced Natural Language Processing (NLP) algorithms to analyze the language used in both voice calls (via transcription) and text messages. This analysis can occur in real-time during a call to provide immediate feedback to <a href="#definition-list">Agents</a> to help guide the conversation, or de-escalate situations, as well as post-interaction for comprehensive review. By identifying the sentiment expressed (positive, negative, or neutral), businesses can quickly pinpoint customer frustration requiring immediate attention, as well as recognize positive interactions to understand what is resonating well. Combined with other features like AI tagging, this enables timely service recovery, proactive engagement, and the ability to replicate successful communication strategies.</p>
 
 <h2 id="live-ai-guidance">Live AI Guidance for Agents</h2>
 <p>Building off of the Sentiment Analysis feature, empowering Agents with <strong>real-time intelligence</strong> can significantly improve the quality and effectiveness of individual customer interactions. Leveraging live audio transcription and NLP, the AI will analyze the ongoing conversation in real-time. This analysis will focus on identifying the customer's sentiment, key topics being discussed, and potential areas of confusion or concern. Based on the live analysis, the AI can provide Agents with intelligent suggestions directly within their OpenPhone interface. This could include recommended responses, access to relevant knowledge base articles, or flags indicating potential customer dissatisfaction, enabling Agents to navigate conversations more effectively and achieve better outcomes.</p>
@@ -44,3 +37,11 @@ order: 5
 
 <h2 id="predictive-insights">Predictive Insights</h2>
 <p>Anticipating future customer behaviour and potential risks allows for proactive intervention and strategic planning. AI models will analyze historical communication data, looking for patterns and correlations between various factors (sentiment, topic trends, interaction frequency, resolution times, etc.) and future outcomes like churn or sales conversions. By identifying potential churn risks early, businesses can proactively engage at-risk customers to address their concerns. Similarly, recognizing patterns indicative of sales opportunities can allow for timely outreach. Predicting periods of high support volume enables better staffing and resource allocation, ensuring a consistently high level of service.</p>
+
+<h2 id="definition-list">Definitions</h2>
+<dl>
+	<dt>Agent</dt>
+	<dd>
+		<p>For the purposes of this strategy document, an <em>Agent</em> is anybody communicating with an end-user / customer on behalf of the organization. </p>
+	</dd>
+</dl>

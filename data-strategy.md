@@ -25,7 +25,7 @@ order: 4
 </p>
 
 <div class="box">
-	<p>N.B. As I do not have access to the backend architecture, I have made assumptions and generalized this section to ideal strategy. The needed architecture may or may not already be in place.</p>
+	<p><em>N.B. As I do not have access to the backend architecture, I have made assumptions and generalized this section to ideal strategy. The needed architecture may or may not already be in place.</em></p>
 </div>
 
 <h3>Data Sources within OpenPhone</h3>
@@ -61,5 +61,5 @@ order: 4
 </ul>
 
 <div class="box">
-	<p>It is assumed that OpenPhone has most, if not all, of this architecture already in place and we would simply need to build new functions to serve the new insights.</p>
+	<p><em>N.B. It is assumed that OpenPhone has most, if not all, of this architecture already in place and we would simply need to build new functions to serve the new insights.</em></p>
 </div>
