@@ -200,3 +200,31 @@ order: 3
 		<p>Understand customer channel preferences for different needs, informing communication strategies and resource allocation per channel.</p>
 	</div>
 </div>
+
+<br />
+
+<h3>Proactive Insights through Customizable Notifications</h3>
+<p>To ensure that valuable insights lead to timely action, our vision includes a robust and flexible notification system that users can tailor to their specific needs and workflows.</p>
+<h4>Customizable Analytics Triggers</h4>
+<div class="row">
+    <div class="6u 12u$(small)">
+        <h5>Capture</h5>
+        <p>Enable users to define rules based on various analytics metrics and events within OpenPhone. This includes setting thresholds for KPIs (e.g., NPS score drops below X), specific tags being applied (e.g., "complaint" tag), or predicted outcomes reaching a certain confidence level (e.g., high churn risk).</p>
+    </div>
+    <div class="6u$ 12u$(small)">
+        <h5>Insights</h5>
+        <p>Empower users to proactively monitor the health of their customer interactions and business performance. By setting custom triggers, they can be alerted to critical events in real-time without constantly monitoring dashboards.</p>
+    </div>
+</div>
+
+<h4>Workflow-Assignable Actions</h4>
+<div class="row">
+    <div class="6u 12u$(small)">
+        <h5>Capture</h5>
+        <p>Allow users to define a variety of actions to be triggered when their custom analytics rules are met. These actions could include sending notifications to specific channels (e.g., Slack, email), creating tasks within project management tools (e.g., Asana, Linear), or triggering internal actions within OpenPhone (e.g., adding a comment to a conversation, routing a contact to a specific team).</p>
+    </div>
+    <div class="6u$ 12u$(small)">
+        <h5>Insights</h5>
+        <p>Make insights directly actionable by integrating them into existing workflows. This ensures that the right people are informed at the right time, allowing for swift responses to customer issues, proactive engagement with at-risk accounts, and seamless integration of data-driven intelligence into daily operations.</p>
+    </div>
+</div>
