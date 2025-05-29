@@ -9,19 +9,29 @@
 
 {% assign prev_index = current_index | minus: 1 %}
 {% assign next_index = current_index | plus: 1 %}
-{% assign prev_page = sorted_pages[prev_index] %}
-{% assign next_page = sorted_pages[next_index] %}
+
+{% if prev_index >= 0 %}
+  {% assign prev_page = sorted_pages[prev_index] %}
+{% else %}
+  {% assign prev_page = nil %}
+{% endif %}
+
+{% if next_index < sorted_pages.size %}
+  {% assign next_page = sorted_pages[next_index] %}
+{% else %}
+  {% assign next_page = nil %}
+{% endif %}
 
 <div class="navigation-buttons">
   {% if prev_page %}
     <a href="{{ prev_page.url | absolute_url }}" class="button back">{{ prev_page.title }}</a>
   {% else %}
-    <a href="{{ "/openphone-insight-squad" | absolute_url }}" class="button back">Home</a>
+    <a href="{{ "/" | absolute_url }}" class="button back">Home</a>
   {% endif %}
   
   {% if next_page %}
     <a href="{{ next_page.url | absolute_url }}" class="button next">{{ next_page.title }}</a>
   {% else %}
-    <a href="{{ "/openphone-insight-squad" | absolute_url }}" class="button next">Home</a>
+    <a href="{{ "/" | absolute_url }}" class="button next">Home</a>
   {% endif %}
 </div> 
