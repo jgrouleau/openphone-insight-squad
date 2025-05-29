@@ -4,7 +4,6 @@
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" | sort: "order", "first" %}
 {% endif %}
 <section id="one" class="tiles">
-  <h4>Click through the tiles below to read more about my strategic vision for OpenPhone's Insights Squad.</h4>
   {% for tile in tiles limit:site.tiles-count %}
   <article>
     <span class="image">
