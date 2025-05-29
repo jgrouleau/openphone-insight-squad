@@ -18,7 +18,6 @@ order: 3
 		</header>
 
 <!-- Content -->
-<h2 id="content">Building on the Foundation</h2>
 <p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>OpenPhone aims to empower customers with detailed insights from their communication data to enhance customer experience and optimize business operations. Foundational analytics exist, but there are clear opportunities for improvement to make these insights more valuable and actionable for customers.</p>
 
 <ol>

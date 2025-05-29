@@ -19,49 +19,12 @@ order: 4
 
 <!-- Content -->
 
-<h2 id="content">Framework for Robust Analytics</h2>
-<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
-  To deliver valuable customer insights, a thoughtful and robust data strategy is essential. This framework outlines how OpenPhone can leverage customer data responsibly to power the vision for enhanced analytics.
-</p>
+<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>OpenPhone's data strategy for customer insights centers on the responsible and effective utilization of a wide array of customer data, encompassing call logs, SMS communications, call recordings, workflow-related data, and survey responses. The primary aim is to unlock richer, more actionable analytics, enabling a deeper understanding of customer behavior, the identification of key trends, and ultimately the optimization of business outcomes and customer experiences.</p>
+  
+<p>A foundational principle of this strategy is a strong commitment to customer privacy. This is manifested in ensuring that users have access only to their own data. Moreover, in the development and training of AI models, we will employ techniques such as anonymization and data aggregation. This approach allows us to discern broader patterns and insights without compromising the privacy of individual interactions. Underpinning these efforts is the development of a scalable and secure data infrastructure, which will likely leverage and strategically extend OpenPhone's existing robust technical foundation to efficiently handle the increased volume and complexity of data.</p>
 
 <div class="box">
 	<p><em>N.B. As I do not have access to the backend architecture, I have made assumptions and generalized this section to ideal strategy. The needed architecture may or may not already be in place.</em></p>
-</div>
-
-<h3>Data Sources within OpenPhone</h3>
-<p>
-  The OpenPhone platform naturally generates a wealth of data from customer interactions. Key sources for generating insights include:
-</p>
-<ul>
-  <li><strong>Call logs:</strong> Metadata such as timestamps, duration, participants.</li>
-  <li><strong>Text messages:</strong> Message content, timestamps, participants.</li>
-  <li><strong>Call recordings:</strong> Audio data of conversations (with user consent).</li>
-  <li><strong>Workflow data:</strong> Information on how users and customers utilize OpenPhone's automation features, such as call routing rules or auto-replies. This can help identify opportunities to optimize automated processes.</li>
-  <li><strong>Survey responses:</strong> Data gathered from NPS and CSAT integrations.</li>
-</ul>
-
-<h3>Anonymization and Aggregation</h3>
-<p>
-  Protecting customer privacy is paramount. Our data strategy will prioritize anonymization and aggregation techniques to derive insights without compromising individual user data. This includes:
-</p>
-<ul>
-  <li>Aggregating data to identify trends across many users rather than focusing on individual activity.</li>
-  <li>Anonymizing text and voice data before processing with AI/NLP to remove personally identifiable information.</li>
-  <li>Providing users with clear statement that calls are recorded for quality, training, and process improvement purposes—which is already possible with call flow actions that will play a recording—and that they have the option to opt out during their call, which would require a backend control.</li>
-</ul>
-
-<h3>Data Processing and Storage</h3>
-<p>
-  A scalable and secure infrastructure will be necessary to process and store the data required for insights. This will involve:
-</p>
-<ul>
-  <li>Leveraging cloud-based solutions for flexible storage and processing capabilities.</li>
-  <li>Implementing robust security measures to protect data integrity and confidentiality.</li>
-  <li>Designing efficient data pipelines for transforming raw data into analyzable formats.</li>
-</ul>
-
-<div class="box">
-	<p><em>N.B. It is assumed that OpenPhone has most, if not all, of this architecture already in place and we would simply need to build new functions to serve the new insights.</em></p>
 </div>
 
 {% include navigation.html %}
