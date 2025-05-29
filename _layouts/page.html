@@ -7,40 +7,9 @@
 <html>
 
 {% include head.html %}
-
 <body>
-    <script type="text/javascript">document.body.classList.add("is-loading");</script>
 
-    {% include header.html %} 
-    {{ content }}
-    
-    <!-- Navigation -->
-    {% assign pages = site.pages | where: "nav-menu", true | sort: "order" %}
-    {% assign current_page_index = -1 %}
-    {% for page in pages %}
-        {% if page.url == page.url %}
-            {% assign current_page_index = forloop.index0 %}
-            {% break %}
-        {% endif %}
-    {% endfor %}
-    
-    {% if current_page_index > 0 %}
-        {% assign prev_page = pages[current_page_index | minus: 1] %}
-    {% endif %}
-    {% if current_page_index < pages.size | minus: 1 %}
-        {% assign next_page = pages[current_page_index | plus: 1] %}
-    {% endif %}
-    
-    <div class="navigation-buttons">
-        {% if prev_page %}
-            <a href="{{ prev_page.url | relative_url }}" class="button back">{{ prev_page.title }}</a>
-        {% endif %}
-        {% if next_page %}
-            <a href="{{ next_page.url | relative_url }}" class="button next">{{ next_page.title }}</a>
-        {% endif %}
-    </div>
-
-    {% include footer.html %}
+{% include header.html %} {{ content }} {% include footer.html %}
 
 </body>
 

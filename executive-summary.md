@@ -25,3 +25,8 @@ order: 1
 <p>A core tenet of this initiative is delivering intuitive and readily accessible insights that directly empower OpenPhone's customers. This report site details a commitment to a data-driven approach, continuous improvement, and ultimately, the delivery of tangible value that aligns with OpenPhone's mission to help people communicate better and be more productive.</p>
 
 <p>The strategic thinking and technical leadership outlined in this proposal directly address the requirements of the <strong>Senior Engineering Manager, Insight</strong> role. I am eager to bring my expertise and passion to OpenPhone, leading this critical initiative and contributing to your continued innovation and customer success.</p>
+
+<div class="navigation-buttons">
+  <a href="/" class="button back">&larr; Home</a>
+  <a href="/market-need.html" class="button next">Market Need &rarr;</a>
+</div>
