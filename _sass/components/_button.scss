@@ -97,11 +97,12 @@ div .navigation-buttons {
 			}
 
 			&:before {
-				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="24px" viewBox="0 0 36 24" zoomAndPan="disable"><style>line { stroke: #{_palette(fg-bold)}; stroke-width: 2px; }</style><line x1="0" y1="12" x2="34" y2="12" /><line x1="25" y1="4" x2="34" y2="12.5" /><line x1="25" y1="20" x2="34" y2="11.5" /></svg>');
+				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.109 199.109" transform="rotate(180)" xml:space="preserve"><path style="fill:#{_palette(fg-bold)}" d="M15.235 103.518h9.763v-7.93h-9.759v-.011l61.234-61.234-5.63-5.63L0 99.553l70.843 70.843 5.63-5.619-61.238-61.248zm163.976-7.93h19.898v7.931h-19.898z"/><path style="fill:#{_palette(fg-bold)}" d="M74.744 95.588h19.902v7.931H74.744zm-34.818 0h19.898v7.931H39.926zm69.644 0h19.895v7.931H109.57zm34.819 0h19.895v7.931h-19.895z"/></svg>');
+				opacity: 1;
 			}
 
 			&:after {
-				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.109 199.109" transform="rotate(180)" xml:space="preserve"><path style="fill:#010002" d="M15.235 103.518h9.763v-7.93h-9.759v-.011l61.234-61.234-5.63-5.63L0 99.553l70.843 70.843 5.63-5.619-61.238-61.248zm163.976-7.93h19.898v7.931h-19.898z"/><path style="fill:#010002" d="M74.744 95.588h19.902v7.931H74.744zm-34.818 0h19.898v7.931H39.926zm69.644 0h19.895v7.931H109.57zm34.819 0h19.895v7.931h-19.895z"/></svg>');
+				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.109 199.109" transform="rotate(180)" xml:space="preserve"><path style="fill:#{_palette(highlight)}" d="M15.235 103.518h9.763v-7.93h-9.759v-.011l61.234-61.234-5.63-5.63L0 99.553l70.843 70.843 5.63-5.619-61.238-61.248zm163.976-7.93h19.898v7.931h-19.898z"/><path style="fill:#{_palette(highlight)}" d="M74.744 95.588h19.902v7.931H74.744zm-34.818 0h19.898v7.931H39.926zm69.644 0h19.895v7.931H109.57zm34.819 0h19.895v7.931h-19.895z"/></svg>');
 				opacity: 0;
 				z-index: 1;
 			}
@@ -137,11 +138,12 @@ div .navigation-buttons {
 			}
 
 			&:before {
-				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="24px" viewBox="0 0 36 24" zoomAndPan="disable"><style>line { stroke: #{_palette(highlight)}; stroke-width: 2px; }</style><line x1="0" y1="12" x2="34" y2="12" /><line x1="25" y1="4" x2="34" y2="12.5" /><line x1="25" y1="20" x2="34" y2="11.5" /></svg>');
+				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.109 199.109" xml:space="preserve"><path style="fill:#{_palette(fg-bold)}" d="M15.235 103.518h9.763v-7.93h-9.759v-.011l61.234-61.234-5.63-5.63L0 99.553l70.843 70.843 5.63-5.619-61.238-61.248zm163.976-7.93h19.898v7.931h-19.898z"/><path style="fill:#{_palette(fg-bold)}" d="M74.744 95.588h19.902v7.931H74.744zm-34.818 0h19.898v7.931H39.926zm69.644 0h19.895v7.931H109.57zm34.819 0h19.895v7.931h-19.895z"/></svg>');
+				opacity: 1;
 			}
 			
 			&:after {
-				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.109 199.109" xml:space="preserve"><path style="fill:#010002" d="M15.235 103.518h9.763v-7.93h-9.759v-.011l61.234-61.234-5.63-5.63L0 99.553l70.843 70.843 5.63-5.619-61.238-61.248zm163.976-7.93h19.898v7.931h-19.898z"/><path style="fill:#010002" d="M74.744 95.588h19.902v7.931H74.744zm-34.818 0h19.898v7.931H39.926zm69.644 0h19.895v7.931H109.57zm34.819 0h19.895v7.931h-19.895z"/></svg>');
+				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.109 199.109" xml:space="preserve"><path style="fill:#{_palette(highlight)}" d="M15.235 103.518h9.763v-7.93h-9.759v-.011l61.234-61.234-5.63-5.63L0 99.553l70.843 70.843 5.63-5.619-61.238-61.248zm163.976-7.93h19.898v7.931h-19.898z"/><path style="fill:#{_palette(highlight)}" d="M74.744 95.588h19.902v7.931H74.744zm-34.818 0h19.898v7.931H39.926zm69.644 0h19.895v7.931H109.57zm34.819 0h19.895v7.931h-19.895z"/></svg>');
 				opacity: 0;
 				z-index: 1;
 			}
