@@ -1,15 +1,16 @@
 {% assign sorted_pages = site.pages | where_exp: "item", "item.layout == 'page' and item.nav-menu == true" | sort: "order" %}
-{% assign current_page_order = page.order %}
-{% assign prev_page = nil %}
-{% assign next_page = nil %}
-
+{% assign current_index = nil %}
 {% for p in sorted_pages %}
-  {% if p.order == current_page_order %}
-    {% assign prev_page = forloop.previous %}
-    {% assign next_page = forloop.next %}
+  {% if p.url == page.url %}
+    {% assign current_index = forloop.index0 %}
     {% break %}
   {% endif %}
 {% endfor %}
+
+{% assign prev_index = current_index | minus: 1 %}
+{% assign next_index = current_index | plus: 1 %}
+{% assign prev_page = sorted_pages[prev_index] %}
+{% assign next_page = sorted_pages[next_index] %}
 
 <div class="navigation-buttons">
   {% if prev_page %}
