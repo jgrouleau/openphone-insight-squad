@@ -25,21 +25,21 @@ order: 3
 	<li>Understand customer experience by capturing post-interaction feedback:
 		<ul>
 			<li>Net Promoter Score (NPS): Understand overall customer loyalty and identify promoters, passives, and detractors to inform strategies for improvement.</li>
-			</li>Customer Satisfaction (CSAT): Identify areas of service excellence and those requiring improvement.</li>
+			<li>Customer Satisfaction (CSAT): Identify areas of service excellence and those requiring improvement.</li>
 		</ul>
 	</li>
 	<li>Optimize communication efficiency by identifying opportunities to streamline process and improve the customer journey:
 		<ul>
 			<li>First Call Resolution (FCR): Identify areas where agents are effectively resolving issues and where additional training or resources might be needed.</li>
-			</li>Transfer Metrics: Identify potential bottlenecks or areas where initial routing or information provided could be improved.</li>
-			</li>Call Flow Analysis: Understand the efficiency and user-friendliness of the call flow, highlighting areas causing frustration or confusion.</li>
+			<li>Transfer Metrics: Identify potential bottlenecks or areas where initial routing or information provided could be improved.</li>
+			<li>Call Flow Analysis: Understand the efficiency and user-friendliness of the call flow, highlighting areas causing frustration or confusion.</li>
 		</ul>
 	</li>
 	<li>Unlock deeper, contextual insights from customer interactions with AI and NLP:
 		<ul>
 			<li>Sentiment Analysis: Identify interactions where customers are frustrated or delighted, enabling timely follow-up, service recovery, and areas of service excellence.</li>
-			</li>Transfer Metrics: Identify potential bottlenecks or areas where initial routing or information provided could be improved.</li>
-			</li>Call Flow Analysis: Understand the efficiency and user-friendliness of the call flow, highlighting areas causing frustration or confusion.</li>
+			<li>Transfer Metrics: Identify potential bottlenecks or areas where initial routing or information provided could be improved.</li>
+			<li>Call Flow Analysis: Understand the efficiency and user-friendliness of the call flow, highlighting areas causing frustration or confusion.</li>
 		</ul>
 	</li>
 	<li>Provide real-time assistance to Agents, based on content and sentiment, with live AI guidance during interactions:
