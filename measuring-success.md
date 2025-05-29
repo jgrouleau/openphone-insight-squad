@@ -19,7 +19,7 @@ order: 8
 
 <!-- Content -->
 <h2>Deliver Value Continuously</h2>
-<p><span class="image left"><img src="{% link page.image %}" alt="" /></span>
+<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
   To ensure the Insights Squad is delivering value and achieving its objectives, it's crucial to establish clear metrics and a robust measurement framework. This section outlines the key performance indicators (KPIs), including how and when they're measured, and the continuous improvement process that will be used to gauge success.
 </p>
 

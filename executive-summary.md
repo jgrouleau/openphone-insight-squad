@@ -18,7 +18,7 @@ order: 1
 		</header>
 
 <!-- Content -->
-<p><span class="image left"><img src="{% link page.image %}" alt="" /></span>OpenPhone has already established itself as a modern force in business communication, prioritizing user experience. The next strategic leap lies in transforming the wealth of daily customer interaction data into actionable intelligence. This proposal outlines a vision for the dedicated <strong>Insight Squad</strong>, empowered by AI, to provide OpenPhone's customers with invaluable understanding, driving productivity and growth.</p>
+<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>OpenPhone has already established itself as a modern force in business communication, prioritizing user experience. The next strategic leap lies in transforming the wealth of daily customer interaction data into actionable intelligence. This proposal outlines a vision for the dedicated <strong>Insight Squad</strong>, empowered by AI, to provide OpenPhone's customers with invaluable understanding, driving productivity and growth.</p>
 
 <p>My strategy centers on building a scalable data framework and a phased implementation plan to realize this vision. As a senior technical project manager with hands-on development experience who excels at building high-performing remote teams, driving strategic initiatives, and fostering collaborative environments—particularly within SaaS contexts—I am uniquely positioned to lead this newly forming Insight Squad and establish foundational practices for long-term success.</p>
 

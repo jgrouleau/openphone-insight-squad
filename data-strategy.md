@@ -20,7 +20,7 @@ order: 4
 <!-- Content -->
 
 <h2 id="content">Framework for Robust Analytics</h2>
-<p><span class="image left"><img src="{% link page.image %}" alt="" /></span>
+<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
   To deliver valuable customer insights, a thoughtful and robust data strategy is essential. This framework outlines how OpenPhone can leverage customer data responsibly to power the vision for enhanced analytics.
 </p>
 
