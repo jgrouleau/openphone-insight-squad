@@ -51,3 +51,5 @@ order: 9
 <p>
   As the Senior Engineering Manager, a deep understanding of our current technical stack and a strategic vision for its evolution will be critical. This includes leading the team in optimizing existing components and making informed decisions about adopting new tools and platforms to best support our ambitious goals for customer-facing insights and AI integration, while balancing a clear and positive benefit-to-cost ratio.
 </p>
+
+{% include navigation.html %}

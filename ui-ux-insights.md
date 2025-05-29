@@ -69,3 +69,5 @@ order: 6
   <li><strong>Customization and Filtering:</strong> Allowing users to focus on the data that is most relevant to their needs.</li>
   <li><strong>Accessibility:</strong> Ensuring that insights are accessible to all users, regardless of their abilities.</li>
 </ul>
+
+{% include navigation.html %}

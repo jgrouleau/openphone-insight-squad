@@ -83,3 +83,5 @@ order: 8
 <p>
   While the primary focus is on customer value, a long-term view will also include an analysis of the return on investment (ROI) for the Insights Squad. This will involve tracking the costs associated with the team and the infrastructure against the tangible and intangible benefits derived from the insights.
 </p>
+
+{% include navigation.html %}

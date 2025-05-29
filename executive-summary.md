@@ -26,6 +26,8 @@ order: 1
 
 <p>The strategic thinking and technical leadership outlined in this proposal directly address the requirements of the <strong>Senior Engineering Manager, Insight</strong> role. I am eager to bring my expertise and passion to OpenPhone, leading this critical initiative and contributing to your continued innovation and customer success.</p>
 
+{% include navigation.html %}
+
 <!--
 <div class="navigation-buttons">
   <a href="/openphone-insight-squad" class="button back">Home</a>

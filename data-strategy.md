@@ -63,3 +63,5 @@ order: 4
 <div class="box">
 	<p><em>N.B. It is assumed that OpenPhone has most, if not all, of this architecture already in place and we would simply need to build new functions to serve the new insights.</em></p>
 </div>
+
+{% include navigation.html %}

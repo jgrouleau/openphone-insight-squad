@@ -228,3 +228,5 @@ order: 3
         <p>Make insights directly actionable by integrating them into existing workflows. This ensures that the right people are informed at the right time, allowing for swift responses to customer issues, proactive engagement with at-risk accounts, and seamless integration of data-driven intelligence into daily operations.</p>
     </div>
 </div>
+
+{% include navigation.html %}

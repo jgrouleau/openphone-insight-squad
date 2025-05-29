@@ -42,3 +42,5 @@ The world's most valuable resource is no longer oil, but data.
 <p>
   By natively integrating customer-centric insight tools, OpenPhone can go beyond providing a superior communication platform. We can become a partner in helping our customers truly understand their interactions, giving them a competitive edge. This move aligns perfectly with OpenPhone's mission to help people communicate better and be more productive.
 </p>
+
+{% include navigation.html %}

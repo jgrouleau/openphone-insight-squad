@@ -56,3 +56,5 @@ order: 5
 
 <h2 id="predictive-insights">Predictive Insights</h2>
 <p>Anticipating future customer behaviour and potential risks allows for proactive intervention and strategic planning. AI models will analyze historical communication data, looking for patterns and correlations between various factors (sentiment, topic trends, interaction frequency, resolution times, etc.) and future outcomes like churn or sales conversions. By identifying potential churn risks early, businesses can proactively engage at-risk customers to address their concerns. Similarly, recognizing patterns indicative of sales opportunities can allow for timely outreach. Predicting periods of high support volume enables better staffing and resource allocation, ensuring a consistently high level of service. Users could also configure notifications based on these predictive insights. For instance, if the AI predicts a high churn risk for a key account, a notification could be sent to the account manager via email or a direct message in OpenPhone. Similarly, a notification could be triggered if a predicted sales opportunity reaches a certain confidence level.</p>
+
+{% include navigation.html %}

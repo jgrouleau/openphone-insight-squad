@@ -39,3 +39,5 @@ order: 10
 <p>
   The creation of the Insights Squad, led by an experienced and visionary Senior Engineering Manager, will be instrumental in transforming OpenPhone into a platform that not only facilitates communication but also empowers businesses with the intelligence to communicate smarter and achieve greater productivity. The strategic roadmap outlined here provides a clear path towards realizing this potential.
 </p>
+
+{% include navigation.html %}

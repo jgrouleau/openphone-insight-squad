@@ -110,3 +110,5 @@ order: 7
   <li>Impact of insights on customer behaviour and business outcomes (where measurable).</li>
   <li>Team velocity and delivery of features.</li>
 </ul>
+
+{% include navigation.html %}
