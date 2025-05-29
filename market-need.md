@@ -18,8 +18,9 @@ order: 2
 		</header>
 
 <!-- Content -->
-<h2 id="content">Data, Data, and More Data</h2>
-<p>Imagine the wealth of information hidden within every call, every text, and every interaction. Businesses today generate and collect more communications data that they realize—calls, texts, emails, and more. This presents a significant, and often untapped, opportunity. While OpenPhone has revolutionized the usability of business phone systems, the next frontier is empowering our customers to extract meaningful intelligence from these various multi-channel interactions.</p>
+<p><span class="image left"><img src="{% link page.image %}" alt="" /></span>Businesses generate vast amounts of communication data daily across calls, texts, and emails, representing an often-untapped opportunity for valuable intelligence. While OpenPhone excels in business phone system usability, the next step is empowering our customers to extract meaningful insights from these multi-channel interactions. The growing volume of this data holds crucial clues about customer behaviour, preferences, and pain points, yet it largely remains an unmined resource for most.</p>
+
+<p>Consequently, businesses are increasingly seeking data-driven strategies and tools that transform raw data into actionable insights to improve engagement, optimize operations, and boost sales. By natively integrating customer-centric insight tools, OpenPhone can differentiate itself, moving beyond a superior communication platform to become a partner in helping customers truly understand their interactions, aligning with its mission to enhance communication and productivity.</p>
 
 <blockquote>
 The world's most valuable resource is no longer oil, but data.
@@ -27,20 +28,5 @@ The world's most valuable resource is no longer oil, but data.
 <span class="attribution">—The Economist</span>
 </blockquote>
 <p>This sentiment, while broadly about data, highlights the untapped value within business communications.</p>
-
-<h2>The Growing Volume of Communication Data</h2>
-<p>
-  The sheer volume of daily business communications is immense and constantly growing. This data holds valuable clues about customer behaviour, preferences, and pain points. However, for most businesses, this remains a largely unmined resource. OpenPhone is already well-positioned to provide analytics on this growing volume, but there are opportunities for deeper analytics.
-</p>
-
-<h2>Customer Demand for Actionable Insights</h2>
-<p>
-  With so much data at their fingertips, businesses are increasingly seeking data-driven strategies to improve customer engagement, optimize operations, and drive sales. They need tools that can transform raw data into actionable insights, allowing them to make smarter decisions, faster.
-</p>
-
-<h2>OpenPhone's Opportunity to Differentiate</h2>
-<p>
-  By natively integrating customer-centric insight tools, OpenPhone can go beyond providing a superior communication platform. We can become a partner in helping our customers truly understand their interactions, giving them a competitive edge. This move aligns perfectly with OpenPhone's mission to help people communicate better and be more productive.
-</p>
 
 {% include navigation.html %}

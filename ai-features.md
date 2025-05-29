@@ -19,7 +19,7 @@ order: 5
 
 <!-- Content -->
 <h2 id="content">Improving Interactions with AI Insights</h2>
-<p>
+<p><span class="image left"><img src="{% link page.image %}" alt="" /></span>
   Artificial Intelligence stands at the forefront of transforming raw communication data into actionable intelligence, and unlocking deeper understanding and automations. OpenPhone is poised to leverage AI to provide its customers with powerful insights and automation capabilities directly within the platform, enhancing their understanding of customer interactions and streamlining their workflows. Here are some potential AI-driven features that would provide intelligent analytics and enhance user workflows:
 </p>
 

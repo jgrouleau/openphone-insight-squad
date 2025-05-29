@@ -19,7 +19,7 @@ order: 7
 
 <!-- Content -->
 <h2>Bringing It All Together</h2>
-<p>
+<p><span class="image left"><img src="{% link page.image %}" alt="" /></span>
   Bringing the vision for customer-facing insights to reality requires a well-defined implementation strategy. This section outlines a practical approach to execution, considering team structure, development methodology, resource allocation, timelines, risk management, and success criteria.
 </p>
 

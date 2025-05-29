@@ -19,7 +19,7 @@ order: 9
 
 <!-- Content -->
 <h2>What Makes It All Work</h2>
-<p>
+<p><span class="image left"><img src="{% link page.image %}" alt="" /></span>
   The successful delivery of deeper analytics and customer-facing insights will be underpinned by thoughtful design principles and a robust technical environment. This section provides an overview of these key considerations for the Insights Squad, including potential evolutions of the existing technology stack to further enhance our analytics capabilities.
 </p>
 

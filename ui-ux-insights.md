@@ -19,7 +19,7 @@ order: 6
 
 <!-- Content -->
 <h2>Intuitive, Actionable Insights</h2>
-<p>
+<p><span class="image left"><img src="{% link page.image %}" alt="" /></span>
   To truly empower OpenPhone customers, insights need to be presented in a manner that is both intuitive and actionable. A thoughtful user interface
   (UI) and user experience (UX) strategy will be crucial to ensure that valuable data is easily accessible and understandable, allowing timely data-driven decision-making.
 </p>
