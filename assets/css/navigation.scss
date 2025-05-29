@@ -1,0 +1,30 @@
+.navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin: 2em 0;
+    padding: 0 1em;
+    
+    .button {
+        display: inline-block;
+        padding: 0.5em 1em;
+        text-decoration: none;
+        border-radius: 4px;
+        transition: all 0.2s ease-in-out;
+        
+        &.back {
+            background-color: #f4f4f4;
+            color: #333;
+            &:hover {
+                background-color: #e4e4e4;
+            }
+        }
+        
+        &.next {
+            background-color: #2ecc71;
+            color: white;
+            &:hover {
+                background-color: #27ae60;
+            }
+        }
+    }
+} 
