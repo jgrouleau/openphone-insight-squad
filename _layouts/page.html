@@ -33,10 +33,10 @@
     
     <div class="navigation-buttons">
         {% if prev_page %}
-            <a href="{{ prev_page.url | relative_url }}" class="button back">&larr; {{ prev_page.title }}</a>
+            <a href="{{ prev_page.url | relative_url }}" class="button back">{{ prev_page.title }}</a>
         {% endif %}
         {% if next_page %}
-            <a href="{{ next_page.url | relative_url }}" class="button next">{{ next_page.title }} &rarr;</a>
+            <a href="{{ next_page.url | relative_url }}" class="button next">{{ next_page.title }}</a>
         {% endif %}
     </div>
 
