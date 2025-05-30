@@ -41,15 +41,15 @@ order: 5
 </div>
 
 <div>
-<p><span class="image right"><img src="{{ page.image-context | relative_url }}" alt="" /></span>Unlock deeper, <strong>contextual insights</strong> from customer interactions with <strong>AI and NLP</strong>. Implementing <strong>>Sentiment Analysis</strong> allows users to identify interactions where customers are frustrated or delighted, enabling timely follow-up, service recovery, and areas of service excellence.</p>
+<p><span class="image right"><img src="{{ page.image-context | relative_url }}" alt="" /></span>Unlock deeper, <strong>contextual insights</strong> from customer interactions with <strong>AI and NLP</strong>. Implementing <strong>Sentiment Analysis</strong> allows users to identify interactions where customers are frustrated or delighted, enabling timely follow-up, service recovery, and areas of service excellence.</p>
 </div>
 
 <div>
-<p><span class="image left"><img src="{{ page.image-realtime | relative_url }}" alt="" /></span>Provide <strong>real-time assistance</strong> to Agents, based on content and sentiment, with <strong>live AI guidance during interactions</strong>. With <strong>"Just-in-Time" Delivery</strong> of insights, OpenPhone can suggest appropriate responses, provide relevant information, or flag potential issues to help Agents navigate conversations effectively and improve customer outcomes.</p>
+<p><!--<span class="image left"><img src="{{ page.image-realtime | relative_url }}" alt="" /></span>-->Provide <strong>real-time assistance</strong> to Agents, based on content and sentiment, with <strong>live AI guidance during interactions</strong>. With <strong>"Just-in-Time" Delivery</strong> of insights, OpenPhone can suggest appropriate responses, provide relevant information, or flag potential issues to help Agents navigate conversations effectively and improve customer outcomes.</p>
 </div>
 
 <div>
-<p><span class="image right"><img src="{{ page.image-summaries | relative_url }}" alt="" /></span>Automatically generate <strong>concise summaries</strong> of calls and text conversations; <strong>Smart Summaries and Note-taking</strong> allow users to quickly grasp the key takeaways from interactions without needing to review entire transcripts or recordings, improving efficiency.</p>
+<p><!--<span class="image right"><img src="{{ page.image-summaries | relative_url }}" alt="" /></span>-->Automatically generate <strong>concise summaries</strong> of calls and text conversations; <strong>Smart Summaries and Note-taking</strong> allow users to quickly grasp the key takeaways from interactions without needing to review entire transcripts or recordings, improving efficiency.</p>
 </div>
 
 <div>
