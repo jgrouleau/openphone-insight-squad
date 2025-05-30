@@ -71,11 +71,7 @@ order: 7
 <p>
   An Agile development methodology, with iterative sprints and continuous feedback loops, would be well-suited for this initiative. This approach allows for flexibility, rapid prototyping, and early validation of features. Successful implementation will require careful allocation of resources, including <strong>Technical</strong> (cloud infrastructure, data storage, processing power, AI/ML platforms), <strong>People</strong> (hiring and onboarding the necessary team members), and <strong>Financial</strong> (allocating funds for tools, services, and personnel).</p>
 
-<p> A phased rollout with clear milestones is planned. Initial phases will focus on foundational data infrastructure and basic analytics, followed by advanced AI features. Proactive identification and mitigation of risks (technical, privacy, adoption) is crucial.</p>
-
-<h3>Success Criteria</h3>
-<p>
-  The success of the Insights Squad will be measured by key performance indicators (KPIs) such as:
+<p> A phased rollout with clear milestones is planned. Initial phases will focus on foundational data infrastructure and basic analytics, followed by advanced AI features. Proactive identification and mitigation of risks (technical, privacy, adoption) is crucial. The success of the Insights Squad will be measured by key performance indicators (KPIs) such as:
 </p>
 <ul>
   <li>Adoption rates of the new insight features.</li>

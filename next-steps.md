@@ -18,12 +18,10 @@ order: 10
 		</header>
 
 <!-- Content -->
-<h2>Opportunities Abound</h2>
 <p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
   This strategic vision outlines a significant opportunity for OpenPhone to further differentiate itself in the market by empowering customers with actionable insights derived directly from their communication data. By leveraging AI and a thoughtful UI/UX, the Insights Squad can unlock valuable understanding, optimize customer interactions, and drive tangible business growth for OpenPhone's users.
 </p>
 
-<h3>Moving Forward: Empowering OpenPhone with Insight</h3>
 <p>
   To capitalize on this opportunity and bring this vision to fruition, the following next steps are recommended:
 </p>
@@ -35,7 +33,6 @@ order: 10
   <li><strong>Iterate Based on User Feedback and Data:</strong> Continuously measure the adoption and impact of the insights features, gathering user feedback to inform future iterations and enhancements.</li>
 </ol>
 
-<h3>A Clear Path to Success</h3>
 <p>
   The creation of the Insights Squad, led by an experienced and visionary Senior Engineering Manager, will be instrumental in transforming OpenPhone into a platform that not only facilitates communication but also empowers businesses with the intelligence to communicate smarter and achieve greater productivity. The strategic roadmap outlined here provides a clear path towards realizing this potential.
 </p>

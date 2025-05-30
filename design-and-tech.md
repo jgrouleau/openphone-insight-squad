@@ -18,12 +18,10 @@ order: 9
 		</header>
 
 <!-- Content -->
-<h2>What Makes It All Work</h2>
 <p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
   The successful delivery of deeper analytics and customer-facing insights will be underpinned by thoughtful design principles and a robust technical environment. This section provides an overview of these key considerations for the Insights Squad, including potential evolutions of the existing technology stack to further enhance OpenPhone's analytics capabilities.
 </p>
 
-<h3>Design Principles for Insight Delivery</h3>
 <p>
   The user interface and experience for insights will adhere to the following principles to ensure clarity, usability, and impact:
 </p>
@@ -35,7 +33,6 @@ order: 9
   <li><strong>Performance Optimization:</strong> Delivering insights quickly and efficiently within the OpenPhone platform.</li>
 </ul>
 
-<h3>Technical Environment and Potential Enhancements for Analytics</h3>
 <p>
   The Insights Squad will leverage OpenPhone's modern and scalable technical stack. To further enhance your ability to deliver advanced, AI-powered
   customer insights at scale, OpenPhone should strategically consider the following potential evolutions of your environment:
