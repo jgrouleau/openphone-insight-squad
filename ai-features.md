@@ -77,7 +77,7 @@ order: 5
 </ol>
 -->
 
-<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>Understand customer experience by capturing post-interaction feedback:</p>
+<p><span class="image right"><img src="{{ page.image | relative_url }}" alt="" /></span>Understand customer experience by capturing post-interaction feedback:</p>
 	<ul>
 		<li>Net Promoter Score (NPS): Understand overall customer loyalty and identify promoters, passives, and detractors to inform strategies for improvement.</li>
 		<li>Customer Satisfaction (CSAT): Identify areas of service excellence and those requiring improvement.</li>
@@ -90,7 +90,7 @@ order: 5
 		<li>Call Flow Analysis: Understand the efficiency and user-friendliness of the call flow, highlighting areas causing frustration or confusion.</li>
 	</ul>
 
-<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>Unlock deeper, contextual insights from customer interactions with AI and NLP:</p>
+<p><span class="image right"><img src="{{ page.image | relative_url }}" alt="" /></span>Unlock deeper, contextual insights from customer interactions with AI and NLP:</p>
 	<ul>
 		<li>Sentiment Analysis: Identify interactions where customers are frustrated or delighted, enabling timely follow-up, service recovery, and areas of service excellence.</li>
 		<li>Transfer Metrics: Identify potential bottlenecks or areas where initial routing or information provided could be improved.</li>
@@ -102,7 +102,7 @@ order: 5
 		<li>"Just-in-Time" Delivery: Suggest appropriate responses, provide relevant information, or flag potential issues to help Agents navigate conversations effectively and improve customer outcomes.</li>
 	</ul>
 
-<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>utomatically generate concise summaries of calls and text conversations:</p>
+<p><span class="image right"><img src="{{ page.image | relative_url }}" alt="" /></span>utomatically generate concise summaries of calls and text conversations:</p>
 	<ul>
 		<li>Smart Summaries and Note-taking: Allow users to quickly grasp the key takeaways from interactions without needing to review entire transcripts or recordings, improving efficiency.</li>
 	</ul>
@@ -112,7 +112,7 @@ order: 5
 		<li>Automated Efficiency: Enable automated routing of specific contact types to designated teams or the application of custom call handling rules, improving customer service and internal efficiency (e.g., routing "problem customers" to supervisors).</li>
 	</ul>
 
-<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>Leverage AI to identify patterns in communication data that can predict future outcomes or risks:</p>
+<p><span class="image right"><img src="{{ page.image | relative_url }}" alt="" /></span>Leverage AI to identify patterns in communication data that can predict future outcomes or risks:</p>
 	<ul>
 		<li>Predictive Insights: Identify potential churn risks based on negative sentiment trends, highlight potential sales opportunities based on positive engagement, or predict periods of high support volume to optimize staffing proactively.</li>
 	</ul>
@@ -128,7 +128,7 @@ order: 5
 	</ul>
 </li>
 
-<p><span class="image right"><img src="{% link assets/images/pexels-tara-winstead-8386440.jpg %}" alt="" /></span>To ensure the above insights provide the most valuable to customers, my vision includes a flexible notification system users can tailor to their needs. To increase the actionability of these insights, this involves customizable analytics triggers, allowing users to define rules based on various analytics metrics and events within OpenPhone. This includes:</p>
+<p><span class="image left"><img src="{% link assets/images/pexels-tara-winstead-8386440.jpg %}" alt="" /></span>To ensure the above insights provide the most valuable to customers, my vision includes a flexible notification system users can tailor to their needs. To increase the actionability of these insights, this involves customizable analytics triggers, allowing users to define rules based on various analytics metrics and events within OpenPhone. This includes:</p>
 <ul>
 	<li>Setting thresholds for KPIs, like NPS drops.</li>
 	<li>Specific tags, like "complaint".</li>
