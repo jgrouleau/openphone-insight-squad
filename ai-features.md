@@ -3,14 +3,14 @@ layout: page
 title: AI Features
 description: Innovative AI capabilities that will enhance OpenPhone's functionality and user experience.
 image: assets/images/pexels-googledeepmind-17485657.jpg
-image-cx: /images/pexels-yankrukov-8867628.jpg
-image-efficiency: /images/pexels-rdne-9064799.jpg
-image-context: /images/pexels-rdne-7563656-cropped.png
-image-realtime: /images/pexels-tara-winstead-8386440.jpg
-image-summaries: /images/pexels-karolina-grabowska-7876785.jpg
-image-tagging: /images/pexels-padrinan-1111313.jpg
-image-patterns: /images/pexels-iamhogir-17781649.jpg
-image-notifs: /images/pexels-tdcat-193003.jpg
+image-cx: assets/images/pexels-yankrukov-8867628.jpg
+image-efficiency: assets/images/pexels-rdne-9064799.jpg
+image-context: assets/images/pexels-rdne-7563656-cropped.png
+image-realtime: assets/images/pexels-tara-winstead-8386440.jpg
+image-summaries: assets/images/pexels-karolina-grabowska-7876785.jpg
+image-tagging: assets/images/pexels-padrinan-1111313.jpg
+image-patterns: assets/images/pexels-iamhogir-17781649.jpg
+image-notifs: assets/images/pexels-tdcat-193003.jpg
 nav-menu: true
 order: 5
 ---
