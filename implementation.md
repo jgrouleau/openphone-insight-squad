@@ -18,16 +18,11 @@ order: 7
 		</header>
 
 <!-- Content -->
-<h2>Bringing It All Together</h2>
 <p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
-  Bringing the vision for customer-facing insights to reality requires a well-defined implementation strategy. This section outlines a practical approach to execution, considering team structure, development methodology, resource allocation, timelines, risk management, and success criteria.
+  A well-defined strategy is key to realizing this customer-facing insights vision. Outlined below is a suggested execution approach, including team structure, development, resources, timelines, risks, and success metrics.
 </p>
 
-<h3>Team Structure and Roles</h3>
-<p>
-  A dedicated and collaborative team will be crucial for the success of the Insights Squad. This team could be structured with roles such as:
-</p>
-
+<h3>Proposed Insight Squad Structure and Roles</h3>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -40,27 +35,27 @@ order: 7
 		<tbody>
 			<tr>
 				<td>Senior Engineering Manager</td>
-				<td>Leading the technical team and driving execution, held by yours truly.</td>
+				<td>Leads technical team and execution, held by yours truly.</td>
 				<td>Director of Engineering or equivalent</td>
 			</tr>
 			<tr>
 				<td>Data Scientist(s)</td>
-				<td>Developing the AI/ML models and performing in-depth analysis.</td>
+				<td>Develops the AI/ML models and performings in-depth analysis.</td>
 				<td>Senior Engineering Manager</td>
 			</tr>
 			<tr>
 				<td>Data Engineer(s)</td>
-				<td>Building and maintaining the data pipelines and infrastructure.</td>
+				<td>Builds and maintains the data pipelines/infra.</td>
 				<td>Senior Engineering Manager</td>
 			</tr>
 			<tr>
 				<td>Product Manager</td>
-				<td>Defining the product roadmap and ensuring alignment with user needs.</td>
+				<td>Defines the roadmap and ensures alignment with user needs.</td>
 				<td>Product Lead (direct), Senior Engineering Manager (indirect)</td>
 			</tr>
 			<tr>
 				<td>UX/UI Designer(s)</td>
-				<td>Designing the intuitive interfaces for presenting insights.</td>
+				<td>Designs intuitive interfaces.</td>
 				<td>Design Lead (direct), Senior Engineering Manager (indirect)</td>
 			</tr>
 		</tbody>
@@ -68,37 +63,15 @@ order: 7
 </div>
 
 <div class="box">
-	<p>Collaboration with existing OpenPhone teams, such as the core engineering and product teams, will be essential throughout the implementation process.</p>
+	<p>N.B. Collaboration between Engineering, Product, and Design teams is essential.</p>
 </div>
 
 
 <h3>Development Methodology</h3>
 <p>
-  An Agile development methodology, with iterative sprints and continuous feedback loops, would be well-suited for this initiative. This approach allows
-  for flexibility, rapid prototyping, and early validation of features.
-</p>
+  An Agile development methodology, with iterative sprints and continuous feedback loops, would be well-suited for this initiative. This approach allows for flexibility, rapid prototyping, and early validation of features. Successful implementation will require careful allocation of resources, including <strong>Technical</strong> (cloud infrastructure, data storage, processing power, AI/ML platforms), <strong>People</strong> (hiring and onboarding the necessary team members), and <strong>Financial</strong> (allocating funds for tools, services, and personnel).</p>
 
-<h3>Resource Requirements</h3>
-<p>
-  Successful implementation will require careful allocation of resources, including:
-</p>
-<ul>
-  <li><strong>Technical:</strong> Cloud infrastructure, data storage, processing power, AI/ML platforms.</li>
-  <li><strong>People:</strong> Hiring and onboarding the necessary team members.</li>
-  <li><strong>Financial:</strong> Allocating funds for tools, services, and personnel, as required.</li>
-</ul>
-
-<h3>Timeline and Milestones</h3>
-<p>
-  A phased rollout strategy with clearly defined milestones will help manage expectations and ensure progress. Initial phases could focus on foundational
-  elements like data infrastructure and basic analytics, with subsequent phases introducing more advanced AI-powered features.
-</p>
-
-<h3>Risk Management</h3>
-<p>
-  Identifying and mitigating potential risks is crucial. These could include technical challenges, data privacy concerns, and adoption hurdles. A proactive
-  risk management plan will help address these challenges effectively.
-</p>
+<p> A phased rollout with clear milestones is planned. Initial phases will focus on foundational data infrastructure and basic analytics, followed by advanced AI features. Proactive identification and mitigation of risks (technical, privacy, adoption) is crucial.</p>
 
 <h3>Success Criteria</h3>
 <p>

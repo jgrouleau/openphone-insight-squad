@@ -18,56 +18,24 @@ order: 6
 		</header>
 
 <!-- Content -->
-<h2>Intuitive, Actionable Insights</h2>
 <p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
-  To truly empower OpenPhone customers, insights need to be presented in a manner that is both intuitive and actionable. A thoughtful user interface
-  (UI) and user experience (UX) strategy will be crucial to ensure that valuable data is easily accessible and understandable, allowing timely data-driven decision-making.
-</p>
-
-<h3>Edge Insights: Contextual "Just in Time" Delivery</h3>
-<p>Just like edge computing provides resources closer to the end user to reduce latency, certain insights are most impactful when presented directly within the user's communication workflow:</p>
-<div class="row">
+  Presenting insights intuitively and actionably is a key user experience consideration for OpenPhone customers to enable timely, data-driven decisions. I propose the concept of Edge Insights, provided through "Just In Time" delivery, that would be presented directly within the user's communication workflow, enhancing their impact.</p>
+  
+  <div class="row">
 	<div class="6u 12u$(small)">
 		<h4>Live AI Guidance for Agents</h4>
 		<p>
-		Real-time AI suggestions can be surfaced within the call interface, perhaps as subtle prompts or information panels that agents can quickly reference or dismiss without disrupting the flow of the conversation.
+		Real-time AI suggestions within the call interface, as subtle prompts or panels, so Agents can quickly reference them without disrupting the flow of the interaction.
 		</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h4>Enhanced AI Tagging</h4>
-		<p>
-		AI-driven contact tags can be displayed prominently within the contact profile,
-		making them immediately visible and usable for workflow automation rules
-		directly within the communication interface.
-		</p>
+		<p>Prominent display of AI-driven contact and interaction tags, prominently displayed in the interface, and available for use within workflow automations.</p>
 	</div>
 </div>
 
-<h3>Centralized Insights: The Analytics Dashboard</h3>
-<p>For a broader overview and deeper analysis, the current dedicated analytics dashboard can be enhanced to provide a more comprehensive view of key metrics and trends. Building upon the existing dashboard, OpenPhone can incorporate:</p>
-<h4>Filtering and Contact Groups</h4>
-<p>Additive and subtractive filters should be prominently displayed where needed for all insights, allowing to filter the data by date range, tags, and other options. Ideally, there should global filters at the top of the dashboard to filter all data in the current view, as well as localized filters that apply to only specific insights. It's also not uncommon to have multiple contacts within a single organization; as such, <em>Contact Group</em> filters could also provide deeper insights into overall relationship management, for example to show scores from all contacts at the same organization.
-</p>
-<h4>Customer Loyalty & Satisfaction (NPS & CSAT)</h4>
-<p>Visualizations like trend lines and charts can show how these scores are evolving over time. Number callouts call also be used to identify lowest, average, and highest scores. Colour-coding (e.g. Red-Amber-Green) for quick reference of negative, neutral, and positive values would be an excellent visual presentation here.</p>
-<h4>Communication Efficiency (FCR, Transfer Metrics, Call Flow Analysis)</h4>
-<p>Clear metrics and visual representations of call resolution rates, transfer patterns (e.g., Sankey diagrams), and IVR/call flow drop-off points (e.g., funnel charts) can highlight areas for optimization.</p>
-<h4>AI-Powered Insights (Sentiment Trends, Topic Analysis)</h4>
-<p>Visualizations such as sentiment timelines, word clouds for topic analysis, and trend charts for recurring themes can provide a high-level understanding of customer conversations.</p>
-<h4>Predictive Insights</h4>
-<p>Presenting potential churn risks or sales opportunities through clear indicators and supporting data within the dashboard can enable proactive interventions.</p>
+<p>To offer a broader and more in-depth understanding, the existing analytics dashboard can be significantly enhanced. This involves incorporating prominent <strong>additive and subtractive filters</strong>, both global and localized, alongside "Contact Group" filters to provide deeper insights into relationship management across organizations. For Customer Loyalty and Satisfaction (NPS & CSAT), improvements would include <strong>trend visualizations, key number callouts (minimum, average, maximum), and intuitive color-coding</strong>. To better understand Communication Efficiency, the dashboard can feature metrics and visual aids such as <strong>Sankey diagrams</strong> for transfer analysis and <strong>funnel charts</strong> to identify drop-off points in call flows. Furthermore, the integration of AI-powered insights through <strong>sentiment timelines, topic analysis word clouds, and trend charts</strong> will offer a high-level view of customer conversations. Finally, the presentation of Predictive Insights, using clear indicators supported by relevant data, will highlight potential churn risks and sales opportunities.</p>
 
-<h3>General UI/UX Principles</h3>
-<p>Across all insight presentations, the following principles will be paramount:</p>
-<ul>
-  <li><strong>Clarity and Simplicity:</strong> Using straightforward language and avoiding overly technical jargon.</li>
-  <li><strong>Effective Visualizations:</strong> Employing appropriate charts and graphs that are easy to interpret.</li>
-  <li><strong>Actionable Recommendations:</strong> Where possible, providing clear suggestions or next steps based on the insights.
-  	<ul>
-		<li>For example, <em>based on a spike in negative sentiment around billing inquiries, consider reviewing billing documentation or providing additional Agent training in this area.</em></li>
-	</ul></li>
-  <li><strong>Customization and Filtering:</strong> Allowing users to focus on the data that is most relevant to their needs.</li>
-  <li><strong>Accessibility:</strong> Ensuring that insights are accessible to all users, regardless of their abilities.</li>
-</ul>
+<p>Across all presentations of insights, several general UI/UX principles will be paramount. These include ensuring <strong>Clarity and Simplicity</strong> through the use of straightforward language and the avoidance of overly technical jargon. Effective visualizations will be employed by using appropriate and <strong>easily interpretable charts and graphs</strong>. Where possible, insights will be accompanied by <strong>Actionable Recommendations</strong>, providing clear suggestions or next steps, such as reviewing billing documentation based on negative sentiment trends. Furthermore, the ability for users to have <strong>Customization and Filtering</strong> options will allow them to focus on the data most relevant to their needs. Finally, <strong>Accessibility</strong> will be a key consideration to ensure that all insights are usable by everyone, regardless of their abilities.</p>
 
 {% include navigation.html %}
