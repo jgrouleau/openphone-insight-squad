@@ -18,7 +18,7 @@ order: 6
 		</header>
 
 <!-- Content -->
-<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
+<p><span class="image left rounded"><img src="{{ page.image | relative_url }}" alt="" /></span>
   Presenting insights intuitively and actionably is a key user experience consideration for OpenPhone customers to enable timely, data-driven decisions. I propose the concept of Edge Insights, provided through "Just In Time" delivery, that would be presented directly within the user's communication workflow, enhancing their impact.</p>
   
   <div class="row">

@@ -18,7 +18,7 @@ order: 9
 		</header>
 
 <!-- Content -->
-<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
+<p><span class="image left rounded"><img src="{{ page.image | relative_url }}" alt="" /></span>
   The successful delivery of deeper analytics and customer-facing insights will be underpinned by thoughtful design principles and a robust technical environment. This section provides an overview of these key considerations for the Insights Squad, including potential evolutions of the existing technology stack to further enhance OpenPhone's analytics capabilities.
 </p>
 

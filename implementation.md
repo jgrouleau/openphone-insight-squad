@@ -18,7 +18,7 @@ order: 7
 		</header>
 
 <!-- Content -->
-<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
+<p><span class="image left rounded"><img src="{{ page.image | relative_url }}" alt="" /></span>
   A well-defined strategy is key to realizing this customer-facing insights vision. Outlined below is a suggested execution approach, including team structure, development, resources, timelines, risks, and success metrics.
 </p>
 

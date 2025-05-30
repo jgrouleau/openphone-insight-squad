@@ -18,7 +18,7 @@ order: 10
 		</header>
 
 <!-- Content -->
-<p><span class="image left"><img src="{{ page.image | relative_url }}" alt="" /></span>
+<p><span class="image left rounded"><img src="{{ page.image | relative_url }}" alt="" /></span>
   This strategic vision outlines a significant opportunity for OpenPhone to further differentiate itself in the market by empowering customers with actionable insights derived directly from their communication data. By leveraging AI and a thoughtful UI/UX, the Insights Squad can unlock valuable understanding, optimize customer interactions, and drive tangible business growth for OpenPhone's users.
 </p>
 
