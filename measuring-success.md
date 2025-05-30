@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Measuring Success
-description: Key metrics and KPIs to track the impact of our data-driven initiatives.
+description: Key metrics and KPIs to track the impact of data-driven initiatives.
 image: assets/images/pexels-olly-3807737.jpg
 nav-menu: true
 order: 8
@@ -25,7 +25,7 @@ order: 8
 
 <h3>Key Performance Indicators (KPIs)</h3>
 <p>
-  The success of our customer insights initiative will be measured through a combination of customer-centric, product-focused, and business-oriented KPIs:
+  The success of OpenPhone's customer insights initiative will be measured through a combination of customer-centric, product-focused, and business-oriented KPIs:
 </p>
 <ul>
   <li><strong>Customer-Centric:</strong>
@@ -76,7 +76,7 @@ order: 8
 
 <h3>Continuous Improvement Process</h3>
 <p>
-  The measurement framework will also feed into a continuous improvement process. By regularly reviewing the KPIs and gathering feedback, we can identify areas where the insights are most valuable and where enhancements are needed. This iterative approach will ensure the Insights Squad continuously delivers increasing value to OpenPhone customers.
+  The measurement framework will also feed into a continuous improvement process. By regularly reviewing the KPIs and gathering feedback, OpenPhone can identify areas where the insights are most valuable and where enhancements are needed. This iterative approach will ensure the Insights Squad continuously delivers increasing value to OpenPhone customers.
 </p>
 
 <h3>ROI Analysis</h3>

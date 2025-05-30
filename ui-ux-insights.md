@@ -44,7 +44,7 @@ order: 6
 </div>
 
 <h3>Centralized Insights: The Analytics Dashboard</h3>
-<p>For a broader overview and deeper analysis, the current dedicated analytics dashboard can be enhanced to provide a more comprehensive view of key metrics and trends. Building upon the existing dashboard, we can incorporate:</p>
+<p>For a broader overview and deeper analysis, the current dedicated analytics dashboard can be enhanced to provide a more comprehensive view of key metrics and trends. Building upon the existing dashboard, OpenPhone can incorporate:</p>
 <h4>Filtering and Contact Groups</h4>
 <p>Additive and subtractive filters should be prominently displayed where needed for all insights, allowing to filter the data by date range, tags, and other options. Ideally, there should global filters at the top of the dashboard to filter all data in the current view, as well as localized filters that apply to only specific insights. It's also not uncommon to have multiple contacts within a single organization; as such, <em>Contact Group</em> filters could also provide deeper insights into overall relationship management, for example to show scores from all contacts at the same organization.
 </p>
