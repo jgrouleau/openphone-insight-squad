@@ -371,7 +371,7 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pexels-tdcat-193003.jpg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pexels-tdcat-193003.jpg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/imagespexels-tdcat-193003.jpgg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/imagespexels-tdcat-193003.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pexels-tdcat-193003.jpg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pexels-tdcat-193003.jpg %}" alt="" /></span></div>
 		<!-- Break -->
