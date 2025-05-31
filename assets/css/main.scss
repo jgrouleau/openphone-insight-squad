@@ -96,4 +96,22 @@
       text-align: center;
     }
   }
+
+  .button.back {
+    order: 1;
+  }
+
+  .button.next {
+    order: 2;
+  }
+
+  @include breakpoint(small) {
+    .button.back {
+      order: 2;
+    }
+
+    .button.next {
+      order: 1;
+    }
+  }
 }
